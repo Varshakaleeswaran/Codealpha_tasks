@@ -1,0 +1,82 @@
+[
+    {
+        "question": "How do I register for courses?",
+        "answer": "Log into the student portal at portal.university.edu, navigate to 'Course Registration' under Academics section, select your semester, browse available courses, and click 'Add Course'. Registration opens 2 weeks before the semester starts. You can register for 5-8 courses per semester."
+    },
+    {
+        "question": "What is the attendance requirement?",
+        "answer": "Students must maintain at least 75% attendance in each course to be eligible for final examinations. Attendance is calculated from the first day of class. Medical certificates are accepted for justified absences if submitted within 3 days."
+    },
+    {
+        "question": "How can I check my exam results?",
+        "answer": "Results are published on the student portal within 15 days after exams end. Login to your account, go to Academics > Examinations > Results, select the semester, and view or download your grade sheet. You'll also receive an SMS notification when results are declared."
+    },
+    {
+        "question": "Where is the library located and what are the timings?",
+        "answer": "The Central Library is located in Academic Block A, 2nd Floor. Library timings are Monday to Saturday: 8:00 AM to 8:00 PM, Sunday and holidays: 9:00 AM to 5:00 PM. During exams, the library extends hours until 10:00 PM. Valid student ID is required for entry."
+    },
+    {
+        "question": "How do I apply for scholarships?",
+        "answer": "Visit the Financial Aid Office in Administration Building or apply online through the student portal under 'Financial Aid' section. Applications open in the first month of each semester. Required documents: academic transcripts, income certificate, and bank details. Merit-based and need-based scholarships are available."
+    },
+    {
+        "question": "What is the hostel fee structure?",
+        "answer": "Hostel fees per semester: Shared room (2 students) - ₹25,000, Shared room (3 students) - ₹20,000, Single occupancy - ₹40,000. This includes accommodation, electricity, water, and basic furniture. Mess charges are separate at ₹15,000 per semester for vegetarian and ₹18,000 for non-vegetarian meals."
+    },
+    {
+        "question": "How can I get my student ID card?",
+        "answer": "New students receive ID cards during orientation week. For lost or damaged cards, visit the Administration Office in Block C, Room 101. Bring 2 passport-size photos and pay ₹200 replacement fee. New cards are issued within 3-5 working days. Temporary ID certificates available immediately."
+    },
+    {
+        "question": "What are the examination timings and pattern?",
+        "answer": "Mid-term exams: Week 8 of semester. Final exams: After semester ends. Timing slots - Morning: 9:30 AM to 12:30 PM, Afternoon: 2:00 PM to 5:00 PM. Each exam is 3 hours. Theory exams are 70 marks, internal assessment 30 marks. Practical exams scheduled separately as per department."
+    },
+    {
+        "question": "How do I contact my professors?",
+        "answer": "Faculty contact information and office hours are available on the department website and student portal under 'Faculty Directory'. You can also email professors through the portal. Most faculty maintain office hours 2-3 times per week. Check department notice boards for updated schedules."
+    },
+    {
+        "question": "Is WiFi available on campus?",
+        "answer": "Yes, free high-speed WiFi is available throughout campus. Connect to 'Campus-WiFi' network using your student portal username and password. Available in all academic buildings, library, hostels, and common areas. For connectivity issues, contact IT Helpdesk at ext. 4567 or email ithelpdesk@university.edu."
+    },
+    {
+        "question": "What documents are needed for admission?",
+        "answer": "Required documents for admission: Original and photocopies of 10th & 12th mark sheets, Transfer Certificate from previous institution, Migration Certificate, Entrance exam scorecard, 6 passport-size photographs, Caste certificate (if applicable), Income certificate for scholarship, Aadhar card, and Medical fitness certificate."
+    },
+    {
+        "question": "How do I apply for bonafide or other certificates?",
+        "answer": "Submit written application at Administration Office, Room 105, with your student ID card. Bonafide certificates: No fee for first 3 per semester. Transcripts: ₹100 per copy. Processing time: 2-3 working days for bonafide, 7-10 days for transcripts. Urgent processing available for additional ₹200."
+    },
+    {
+        "question": "When does the academic semester start?",
+        "answer": "Academic year has two semesters: Odd Semester (Semester I, III, V, VII) runs from late July to December with exams in November-December. Even Semester (Semester II, IV, VI, VIII) runs from January to June with exams in April-May. Exact dates published on university website 2 months in advance."
+    },
+    {
+        "question": "What is the dress code policy?",
+        "answer": "Students must wear formal or semi-formal attire on campus. Acceptable: Shirts, trousers, formal shoes for boys; Salwar kameez, kurta, formal pants, shirts for girls. Not allowed: Shorts, torn jeans, sleeveless tops, flip-flops, or slippers in academic areas. ID card must be worn visibly at all times. Special relaxation during cultural events."
+    },
+    {
+        "question": "How can I join clubs and extracurricular activities?",
+        "answer": "The university has 25+ clubs including cultural, technical, sports, and social service clubs. Visit Student Activities Center in Student Union Building or check the 'Campus Life' section on student portal. Club registrations open in the first two weeks of each semester. Attend club fairs during orientation week to learn about options."
+    },
+    {
+        "question": "What is the process for taking leave or sick leave?",
+        "answer": "For planned leave: Submit leave application through student portal at least 3 days in advance for approval by class coordinator. For medical leave: Submit medical certificate from registered doctor within 3 days of absence. Medical certificates from university health center are automatically updated. Leave exceeding 7 continuous days requires HOD approval."
+    },
+    {
+        "question": "How do I access the student portal?",
+        "answer": "Visit portal.university.edu and login with your enrollment number as username and date of birth (DDMMYYYY) as default password. Change password on first login. Portal provides access to attendance, grades, timetable, course materials, fee payment, and announcements. For login issues, contact IT Helpdesk."
+    },
+    {
+        "question": "Where can I pay my semester fees?",
+        "answer": "Fees can be paid online through student portal using credit/debit card, net banking, or UPI. Offline payment accepted at Accounts Office in Administration Building using cash, cheque, or DD. Fee payment deadline is mentioned in academic calendar, usually first month of semester. Late payment attracts ₹500 penalty plus ₹50 per day."
+    },
+    {
+        "question": "What facilities are available in the hostel?",
+        "answer": "Hostel facilities include: furnished rooms with beds, study tables, cupboards; common room with TV; WiFi connectivity; 24/7 security with CCTV; mess/dining hall; laundry service; common kitchen; gym; indoor games room; medical room with first aid; visitor's lounge; and backup power supply. Separate hostels for boys and girls."
+    },
+    {
+        "question": "How can I get a No Objection Certificate (NOC)?",
+        "answer": "NOC is required for various purposes like applying to other institutions, internships, or document verification. Submit application to Administration Office with details of purpose, addressed authority, and your contact information. Attach valid student ID. Processing time: 3-5 working days. No fee for academic purposes. Collect from Administration Office with ID card."
+    }
+]

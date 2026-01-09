@@ -1,0 +1,7 @@
+tensorflow>=2.10.0
+numpy
+music21
+flask
+pandas
+scikit-learn
+tqdm
